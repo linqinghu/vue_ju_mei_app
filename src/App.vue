@@ -2,6 +2,7 @@
   <div id="app">
     <router-view></router-view>
     <tabbar v-show="isTab"></tabbar>
+
   </div>
 </template>
 

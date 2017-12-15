@@ -2,6 +2,7 @@ import * as types from './mutation-types.js'
 export default {
   // increment({commit}){
   //       commit("INCREMENT")
+
   //   },
   addActivity ({commit}, value) {
     commit(types.ADDACTIVITY, value)
