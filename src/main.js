@@ -9,7 +9,10 @@ import axios from 'axios'
 import 'mint-ui/lib/style.css'
 import './common/stylus/index.styl'
 import VueTouch from 'vue-touch'
+
 global.storage = window.localStorage
+
+//test git commit
 
 // 默认设置axios请求
 // axios.default.baseUrl = 'http://localhost:3000/'  //设置默认请求的前缀
