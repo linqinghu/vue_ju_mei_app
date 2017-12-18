@@ -12,6 +12,7 @@ import VueTouch from 'vue-touch'
 
 global.storage = window.localStorage
 
+
 //test git commit
 //global.storage = window.localStorage
 //global.storage = window.localStorage
