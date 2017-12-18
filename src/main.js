@@ -9,8 +9,6 @@ import axios from 'axios'
 import 'mint-ui/lib/style.css'
 import './common/stylus/index.styl'
 import VueTouch from 'vue-touch'
-
-
 global.storage = window.localStorage
 
 // 默认设置axios请求
