@@ -14,6 +14,7 @@ global.storage = window.localStorage
 
 //test git commit
 
+
 // 默认设置axios请求
 // axios.default.baseUrl = 'http://localhost:3000/'  //设置默认请求的前缀
 axios.defaults.withCredentials = true //允许跨域
