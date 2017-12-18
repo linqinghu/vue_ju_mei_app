@@ -13,12 +13,6 @@ import VueTouch from 'vue-touch'
 global.storage = window.localStorage
 
 
-//test git commit
-//global.storage = window.localStorage
-//global.storage = window.localStorage
-
-//global.storage = window.localStorage
-
 // 默认设置axios请求
 // axios.default.baseUrl = 'http://localhost:3000/'  //设置默认请求的前缀
 axios.defaults.withCredentials = true //允许跨域
